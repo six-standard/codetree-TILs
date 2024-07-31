@@ -1,1 +1,1 @@
-console.log(43.500);
+console.log("43.500");
